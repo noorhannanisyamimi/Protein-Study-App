@@ -1,7 +1,6 @@
-streamlit==1.17.0  # Update this to the version you are using
-biopython==1.79    # Update this to the version you are using
-pandas==1.5.0      # Update this to the version you are using
-networkx==2.8.5    # Update this to the version you are using
-matplotlib==3.6.1  # Update this to the version you are using
-requests==2.28.1   # Update this to the version you are using
+biopython
+pandas
+networkx
+matplotlib
+requests
 
